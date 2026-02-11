@@ -15,6 +15,7 @@ This project focuses on analyzing credit risk to identify key factors influencin
 ## 📊 Dataset
 
 The dataset contains demographic and financial information of loan applicants.
+https://drive.google.com/file/d/1GGgbo4FMxOaCGNxLmxs1EHRafwdxtXF0/view?usp=drive_link
 
 **Target Variable**
 
